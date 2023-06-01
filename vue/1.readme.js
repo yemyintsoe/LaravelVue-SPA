@@ -1,1 +1,1 @@
-
+- bootstrap.js must be imported in app.js where Vue.js is setup to be able to use axios anywhere
